@@ -1,0 +1,5 @@
+﻿Model,Random Forest Classifer
+max_depth,5
+min_samples_leaf,5
+min_samples_split,12
+random_state,42
