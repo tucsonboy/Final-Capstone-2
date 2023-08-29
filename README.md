@@ -1,4 +1,4 @@
-# Final-Capstone-2
+# Predicting Delayed Flights at MIA
 Airlines are constantly trying to improve on-time performance. I have created a model to help schedule flights into Miami International Airport that predicts weather delays during the summer travel months.  
   
 In data wrangling [airline.ipynb](https://github.com/tucsonboy/Final-Capstone-2/blob/1ee79c118fbd5049dd4a03b4123bc90812b36849/data%20wrangling%20airline.ipynb), I concated all the seperate csv files and deleted flights that were either diverted or cancelled as well as dealt with null values in the data.  
